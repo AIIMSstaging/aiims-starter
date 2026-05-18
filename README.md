@@ -1,1 +1,0 @@
-# aiims-starter
